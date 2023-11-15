@@ -109,7 +109,7 @@ body {
 }
 
 .carousel-item {
-  --items: 4;
+  --items: 2;
   --width: 380px;
   --height: 520px;
   --x: calc(var(--active) * 400%);
